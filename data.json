@@ -2,7 +2,7 @@
   "isCheck": "true",
   "allow-ip": {
     "121.137.131.28"
-  }
+  },
   "checkTime": "2016/11/17 18:50 ~ 미정",
   "checkCause_list": {
     "custom": "",
@@ -11,5 +11,5 @@
     "error": "버그발견으로 인한 긴급점검중입니다.",
     "gin": "긴급점검중입니다. 이용에 불편을 드려 죄송합니다."
   }
-  "version": 1,
+  "version": 1
 }
