@@ -4,6 +4,7 @@
     "121.137.131.28"
   },
   "checkTime": "2016/11/17 18:50 ~ 미정",
+  "checkCause": "update",
   "checkCause_list": {
     "custom": "",
     "wait": "임시점검중입니다...",
